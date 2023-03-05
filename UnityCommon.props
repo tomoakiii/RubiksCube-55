@@ -1,0 +1,6 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <ProjectName>Rubik%27s Cube 3D</ProjectName>
+        <ScriptingBackend>False</ScriptingBackend>
+    </PropertyGroup>
+</Project>
